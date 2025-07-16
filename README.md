@@ -1,8 +1,6 @@
-<p align="center">Hi, I'm Tomás!</p>
-
 # 👋 Hi there!
 
-I'm an advanced Actuarial Science student and a Junior Data Analyst with a strong passion for turning data into actionable insights.  
+I'm Tomás, an advanced Actuarial Science student and a Junior Data Analyst with a strong passion for turning data into actionable insights.  
 
 🔍 **What I'm working on:**  
 - Studying and applying data science models, including **Logistic Regression**, **Decision Trees**, **Random Forests**, **XGBoost**, and **Neural Networks (CNN, RNN, etc.)**.  
